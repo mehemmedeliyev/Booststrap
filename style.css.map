@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,EAAC,CAAC,CAAA;EACF,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACd",
+    "sources": [
+        "tyle.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
